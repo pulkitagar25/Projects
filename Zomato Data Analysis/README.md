@@ -1,6 +1,6 @@
-Zomato Data Analysis
+## Zomato Data Analysis
 
-Conclusions:
+## Conclusions:
 1. Asia Kitchen By Mainland China,Spa Cuisine,Byg Brewski Brewing Company,Punjab Grill were the best rated Restaurants.
 
 2. Cafe Coffee Day, Onesta, Empire Restaurant, Just Bake ,Kanti sweets were the top restaurant chains.
